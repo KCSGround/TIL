@@ -47,3 +47,5 @@ StudyGround 의 구성원은 아무나 다 올릴 수 있다. 하지만 Commit M
 ### Algorithm
 
 - [알고리즘 BackTracking](https://github.com/KCSGround/TIL/blob/master/Algorithm/Backtracking.md)
+
+- [Python_Honey_Tips](https://github.com/KCSGround/TIL/blob/master/Algorithm/Python_Honey_Tips.md)
