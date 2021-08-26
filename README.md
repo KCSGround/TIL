@@ -44,8 +44,12 @@ StudyGround 의 구성원은 아무나 다 올릴 수 있다. 하지만 Commit M
 
 - [안드로이드 Activity Task & BackStack](https://github.com/KCSGround/TIL/blob/master/Android/Android-Task-BackStack.md)
 
+- [안드로이드 Activity](https://github.com/KCSGround/TIL/blob/master/Android/Android-Activity.md)
+
 ### Algorithm
 
 - [알고리즘 BackTracking](https://github.com/KCSGround/TIL/blob/master/Algorithm/Backtracking.md)
 
-- [Python_Honey_Tips](https://github.com/KCSGround/TIL/blob/master/Algorithm/Python_Honey_Tips.md)
+### Python
+
+- [파이썬 Python_Honey_Tips](https://github.com/KCSGround/TIL/blob/master/Python/Python_Honey_Tips.md)
