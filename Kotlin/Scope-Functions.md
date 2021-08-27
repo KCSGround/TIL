@@ -210,8 +210,6 @@ println(resultList)
 [5, 4, 4]
 ```
 
-let 사용
-
 ```kotlin
 val numbers = mutableListOf("one", "two", "three", "four", "five")
 numbers.map { it.length }.filter { it > 3 }.let {
