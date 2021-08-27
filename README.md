@@ -42,9 +42,11 @@ StudyGround 의 구성원은 아무나 다 올릴 수 있다. 하지만 Commit M
 
 ### Android
 
-- [안드로이드 Activity Task & BackStack](https://github.com/KCSGround/TIL/blob/master/Android/Android-Task-BackStack.md)
-
 - [안드로이드 Activity](https://github.com/KCSGround/TIL/blob/master/Android/Android-Activity.md)
+
+- [안드로이드 Activity Lifecycle](https://github.com/KCSGround/TIL/blob/master/Android/Android-Activity-Lifecycle.md)
+
+- [안드로이드 Activity Task & BackStack](https://github.com/KCSGround/TIL/blob/master/Android/Android-Task-BackStack.md)
 
 ### Algorithm
 
