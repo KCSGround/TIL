@@ -31,6 +31,7 @@
 StudyGround 의 구성원은 아무나 다 올릴 수 있다. 하지만 Commit Message 는 간결하고 해당 내용을 알 수 있어야 한다. 그리고 Commit Message 의 앞 부분은 어떤걸 주제로 하는지 표시해야 한다.
 
 > ex : React : 생명주기에 대한 설명
+> ex : README LIST 업데이트
 
 ---
 
