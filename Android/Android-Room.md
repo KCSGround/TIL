@@ -62,7 +62,7 @@ Room에는 다음과 같은 세 가지 주요 구성요소가 있다.
 
 <p align="center">
 
-<img src="https://github.com/dudwns9331/2021-Summer-Kotlin/blob/master/Summer-Technical-Note/assets/activity-memory.PNG" width="600px" height="540px"/>
+<img src="https://github.com/KCSGround/TIL/blob/master/assets/room_architecture.PNG" width="600px" height="540px"/>
 
 </p>
 
