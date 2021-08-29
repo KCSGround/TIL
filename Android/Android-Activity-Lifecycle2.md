@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<img src="https://github.com/dudwns9331/2021-Summer-Kotlin/blob/master/Summer-Technical-Note/assets/activity-memory.PNG" width="800px" height="300px"/>
+<img src="https://github.com/KCSGround/TIL/blob/master/assets/activity-memory.PNG" width="800px" height="300px"/>
 
 </p>
 
