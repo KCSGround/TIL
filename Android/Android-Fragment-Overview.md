@@ -18,7 +18,7 @@
 
 <p align="center">
 
-<img src="https://github.com/dudwns9331/2021-Summer-Kotlin/blob/master/Summer-Technical-Note/assets/fragment-screen-sizes.PNG" width="700px" height="420px"/>
+<img src="https://github.com/KCSGround/TIL/blob/master/assets/fragment-screen-sizes.PNG" width="700px" height="420px"/>
 
 </p>
 
