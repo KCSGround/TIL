@@ -59,7 +59,7 @@ Android에는 일반 권한과 서명 권한을 포함하여 여러 하위 유�
 
 <p align="center">
 
-<img src="https://github.com/KCSGround/TIL/blob/master/assets/workflow-overview.PNG" width="400px" height="300px"/>
+<img src="https://github.com/KCSGround/TIL/blob/master/assets/runtime.PNG" width="400px" height="300px"/>
 
 </p>
 
