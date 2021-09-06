@@ -59,11 +59,17 @@ StudyGround 의 구성원은 아무나 다 올릴 수 있다. 하지만 Commit M
 
 - [안드로이드 Retrofit](https://github.com/KCSGround/TIL/blob/master/Android/Android-Retrofit.md)
 
+- [안드로이드 Permissions Overview](https://github.com/KCSGround/TIL/blob/master/Android/Android-Permissions-Overview.md)
+
+<br/>
+
 ### Algorithm
 
 - [알고리즘 BackTracking](https://github.com/KCSGround/TIL/blob/master/Algorithm/Backtracking.md)
 
 - [알고리즘 DFS](https://github.com/KCSGround/TIL/blob/master/Algorithm/DFS.md)
+
+<br/>
 
 ### Python
 
@@ -71,9 +77,13 @@ StudyGround 의 구성원은 아무나 다 올릴 수 있다. 하지만 Commit M
 
 - [파이썬 Python_RecursionError](https://github.com/KCSGround/TIL/blob/master/Python/RecursionError.md)
 
+<br/>
+
 ### Kotlin
 
 - [코틀린 Scope-Functions](https://github.com/KCSGround/TIL/blob/master/Kotlin/Scope-Functions.md)
+
+<br/>
 
 ### Firebase
 
@@ -86,3 +96,5 @@ StudyGround 의 구성원은 아무나 다 올릴 수 있다. 하지만 Commit M
 - [파이어베이스 - Realtime Database : Read & Write (Android)](https://github.com/KCSGround/TIL/blob/master/Firebase/Firebase-RW-Android.md)
 
 - [파이어베이스 - Realtime Database : Work with Lists of data (Android)](https://github.com/KCSGround/TIL/blob/master/Firebase/Firebase-WorkWithListsOfData.md)
+
+<br/>
