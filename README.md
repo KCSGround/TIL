@@ -102,3 +102,9 @@ StudyGround 의 구성원은 아무나 다 올릴 수 있다. 하지만 Commit M
 ### Interface
 
 - [RESTful API](https://github.com/KCSGround/TIL/blob/master/Interface/FRESTful-API.md)
+
+<br/>
+
+### Design
+
+- [Design Pattern : MVC](https://github.com/KCSGround/TIL/blob/master/Design/MVC-Pattern.md)
