@@ -77,7 +77,7 @@ Command 는 하상 ViewState 를 활용해 ViewState 를 변경하거나 신호�
 
 <p align="center">
 
-<img src="https://github.com/KCSGround/TIL/blob/master/assets/MVVM-Pattern.PNG" width="800px" height="260px"/>
+<img src="https://github.com/KCSGround/TIL/blob/master/assets/MVVM-pattern.PNG" width="800px" height="260px"/>
 
 </p>
 
