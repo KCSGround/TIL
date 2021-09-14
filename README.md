@@ -72,7 +72,8 @@ StudyGround 의 구성원은 아무나 다 올릴 수 있다. 하지만 Commit M
 
 - [알고리즘 DFS](https://github.com/KCSGround/TIL/blob/master/Algorithm/DFS.md)
 
-<br/>
+- [알고리즘 Sequentual Search](https://github.com/KCSGround/TIL/blob/master/Algorithm/Sequential_Search.md)
+  <br/>
 
 ### Python
 
