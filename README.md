@@ -118,3 +118,5 @@ StudyGround 의 구성원은 아무나 다 올릴 수 있다. 하지만 Commit M
 - [Design Pattern : MVP](https://github.com/KCSGround/TIL/blob/master/Design/MVP-Pattern.md)
 
 - [Design Pattern : MVVM](https://github.com/KCSGround/TIL/blob/master/Design/MVVM-Pattern.md)
+
+- [Design - DTO, DAO, VO](https://github.com/KCSGround/TIL/blob/master/Design/DTO%2C%20DAO%2C%20VO.md)
